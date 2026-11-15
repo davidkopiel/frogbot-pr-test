@@ -1,0 +1,10 @@
+[
+  {
+    "type": "repository",
+    "name": "davidko-npm-remote"
+  },
+  {
+    "type": "repository",
+    "name": "davidko-proxy-idani"
+  }
+]
